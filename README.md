@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1>Hi there 👋,</h1>
 Here are some ideas to get you started:
 
 <h1>🔭 I’m currently working on</h1>
