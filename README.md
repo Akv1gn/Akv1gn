@@ -10,3 +10,7 @@
 <h1>📫 How to reach me:</h1>
 <h1>😄 Pronouns:</h1>
 <h1>⚡ Fun fact:</h1>
+
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=f79102&text=✨Thanks%20For%20Visiting✨&textBg=false&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn&descSize=16&descAlignY=55&section=footer" />
+</div>
