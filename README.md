@@ -12,7 +12,7 @@
 <h1>⚡ Fun fact:</h1>
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=Akv1gn&theme=rising-sun&locale=id&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Akv1gn&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div>
