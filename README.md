@@ -12,5 +12,10 @@
 <h1>⚡ Fun fact:</h1>
 
 <div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Akv1gn&theme=rising-sun&locale=id&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+  <img src="" />
+</div>
+
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=f79102&text=✨Thanks%20For%20Visiting✨&textBg=false&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn&descSize=16&descAlignY=55&section=footer" />
 </div>
