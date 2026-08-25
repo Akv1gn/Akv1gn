@@ -1,5 +1,6 @@
-<h1>Hi there 👋,</h1>
-Here are some ideas to get you started:
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=f79102&text=⚡%20Hi%20there,%20%20I’m%20SilverStar!&textBg=false&fontSize=42&fontColor=ffffff&fontAlignY=32&animation=fadeIn&descSize=16&descAlignY=55&desc=✨%20Welcome%20to%20my%20github,%20don't%20forget%20to%20follow%20✨"/>
+</div>
 
 <h1>🔭 I’m currently working on</h1>
 <h1>🌱 I’m currently learning</h1>
